@@ -216,6 +216,6 @@ Released under the [MIT License](LICENSE).
 
 <div align="center">
 
-Built by **[YOUR NAME](https://github.com/YOUR-USERNAME)**. If this helped you, consider giving it a ⭐
+Built by **Daniel Abiola(https://github.com/dannyabby3105)**. If this helped you, consider giving it a ⭐
 
 </div>
