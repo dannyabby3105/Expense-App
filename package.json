@@ -1,0 +1,8 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "Expense tracker with optional accounts and sync",
+  "scripts": { "start": "node server/server.js" },
+  "engines": { "node": ">=16" },
+  "license": ""
+}
